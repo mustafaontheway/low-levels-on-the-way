@@ -1,2 +1,7 @@
-# zig-on-the-way
-Zig Lang 
+- Zig
+
+- Zig
+
+- Zig
+
+- C
