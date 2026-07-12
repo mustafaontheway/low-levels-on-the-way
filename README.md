@@ -1,7 +1,3 @@
 - Zig
 
-- Zig
-
-- Zig
-
 - C
